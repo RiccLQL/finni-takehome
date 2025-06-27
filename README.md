@@ -5,8 +5,8 @@
 To run the development server:
 
 ```bash
-pnpm install
-pnpm run dev
+npm install
+npm run dev
 ```
 
 To run convex:
